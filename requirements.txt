@@ -1,0 +1,4 @@
+binance
+pandas
+uvicorn
+fastapi
